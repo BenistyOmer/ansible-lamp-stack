@@ -1,0 +1,8 @@
+# Ignore all markdown files by default
+*.md
+
+# Except these specific files
+!README.md
+!JOURNEY.md
+!CLAUDE.md
+
